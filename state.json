@@ -1,0 +1,26 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "67cc55c780c7f2ba",
+  "_format_columns": [
+    "img_name",
+    "q_lang",
+    "base_type",
+    "location",
+    "answer",
+    "triple",
+    "question",
+    "qid",
+    "img_id",
+    "modality",
+    "content_type",
+    "answer_type"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
